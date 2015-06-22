@@ -1,0 +1,3 @@
+#!/bin/bash
+cd $HOME/.vim/bundle
+git clone $1
